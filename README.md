@@ -29,7 +29,8 @@ Jujibot é um bot para **Discord** desenvolvido para facilitar a interação com
 | V 1.0 | Prototipo inicial do Jujibot, em Python® | V 1.1 | Python® usava muitos recursos da maquina |
 | V 1.1 | Ainda um prototipo, mais em Go® | V 2.0 | Agora em Go® ele usa menos recurso, mais precisa de toda a base |
 | V 2.0 | Primeiro release oficial do Jujibot | V 2.1 | Neste primeiro release, existiam apenas 9 comandos, uma versão bem basica |
-| V 2.3 | Versão final | Proximas atualizações... | Agora com **!25 COMANDOS!, MENSAGEM DE BEM VINDO E MUITOS MAIS!** |
+| V 2.3 | Versão final | V 2.4 | Agora com **!25 COMANDOS!, MENSAGEM DE BEM VINDO E MUITOS MAIS!** |
+| V 2.4 | Versão final (com o @ Pau no cu) | Proximas atualizações | NENHUMA! So que a mensagem de boas vindas marca a pessoa|
 ---
 # APROVEITE O JUJIBOT AGORA NO [!SERVIDOR DA JUJIKATK!](https://discord.gg/jujikatk)
 <sup> bot hosteado no K_K's shitty server, pode cair a qualquer momento<sup>
